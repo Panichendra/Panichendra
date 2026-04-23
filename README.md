@@ -11,7 +11,6 @@
 - Strong interest in **Machine Learning & Full Stack Development**
 - Built and deployed an **AI-based Retinal Disease Classification System**
 - Love working on **real-world problems using scalable systems**
-- Currently preparing for **placements + improving DSA & system design**
 
 ---
 
